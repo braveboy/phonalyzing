@@ -10,7 +10,10 @@ import android.os.Handler;
 import android.view.MotionEvent;
 import android.view.View;
 
-/** Just to test this **/
+/** Just to test this'
+  I don't know what to say!
+  It's amazing!
+ */
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
  * status bar and navigation/system bar) with user interaction.
