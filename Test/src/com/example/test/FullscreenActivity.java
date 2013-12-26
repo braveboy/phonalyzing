@@ -13,6 +13,7 @@ import android.view.View;
 /** Just to test this'
   I don't know what to say!
   It's amazing!
+  jfalskdjlaksdjflaksdjf
  */
 /**
  * An example full-screen activity that shows and hides the system UI (i.e.
